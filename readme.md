@@ -1,9 +1,9 @@
 # Whither Now and Why
 
-## [W. E. B. Du Bois](https://en.wikipedia.org/wiki/W._E._B._Du_Bois)
-## Speech to the Association of Negro Social Science Teachers
-## March 31, 1960
-## [Charlotte, NC](https://en.wikipedia.org/wiki/Charlotte,_North_Carolina)
+* [W. E. B. Du Bois](https://en.wikipedia.org/wiki/W._E._B._Du_Bois)
+* Speech to the Association of Negro Social Science Teachers
+* March 31, 1960
+* [Charlotte, NC](https://en.wikipedia.org/wiki/Charlotte,_North_Carolina)
 
 The American Negro has now reached a point in his progress where he needs to take serious account of where he is and whither he is going. This day has come much earlier than I thought it would. I wrote in 1940 a book called [Dusk of Dawn](https://en.wikipedia.org/wiki/Dusk_of_Dawn) in which I sought to record our situation in a period of change which I expected to last for another 50 years. But the Second World War and the rise of socialism and communism have hastened the event, and we are definitely approaching now a time when the American Negro will become in law equal in citizenship to other Americans.
 
